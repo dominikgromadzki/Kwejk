@@ -1,3 +1,16 @@
 .img-p {
 	padding-bottom: 30px;
+	position: relative;
+}
+h1 {
+	margin-bottom: 50px;
+}
+.glyphicon-star {
+	color: gold;
+	font-size: 20px;
+}
+.rates {
+	position: absolute;
+	top: 5px;
+	right: 25px;
 }
